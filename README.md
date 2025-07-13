@@ -1,6 +1,8 @@
 # real-address-generator
 
 - 这是一个基于 vercel 的真实地址生成器。您可以生成不同国家地图上真实的随机地址。
+- 在线使用
+
 ## 安装依赖
 ```bash
 npm install node-fetch@2
