@@ -39,3 +39,6 @@ npm install
 ```bash
 npx vercel dev -p 3001
 ```
+
+## 版权申明
+- 版本来自 Adonis142857，由 acocchat 进行修改。
