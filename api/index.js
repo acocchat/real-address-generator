@@ -665,8 +665,8 @@ module.exports = async (req, res) => {
         </div>
         
         <div class="footer">
-          Original version by chatgpt.org.uk, modified by Adonis142857 ｜ 
-          <a href="https://github.com/Adonis142857/Real-Address-Generator" target="_blank">
+          Original version by Adonis142857, modified by acocchat ｜ 
+          <a href="https://github.com/acocchat/real-address-generator" target="_blank">
             GitHub <img src="/github-icon.png" alt="GitHub" class="github-icon">
           </a>
         </div>
