@@ -5,7 +5,6 @@
 
 ## 安装依赖
 ```bash
-npm install node-fetch@2
 npm install
 ```
 ## 本地测试
