@@ -3,11 +3,15 @@
 - 这是一个基于 vercel 的真实地址生成器。您可以生成不同国家地图上真实的随机地址。
 - [在线使用](https://real-address-generator-mu.vercel.app)
 
-## 安装依赖
+## vercel一键部署
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/acocchat/real-address-generator)
+
+
+## 手动部署
+- 安装依赖
 ```bash
 npm install
 ```
-## 本地测试
 - 安装 Vercel CLI
 ```bash
 npm install -g vercel
@@ -18,7 +22,7 @@ npx vercel dev
 ```
 - 访问 http://localhost:3000 测试应用
 
-## 部署到 Vercel
+- 部署到 Vercel
 ```bash
 npx vercel deploy --prod
 ```
