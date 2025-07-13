@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "src": "/",
+      "dest": "/api/index.js"
+    },
+    {
+      "src": "/github-icon.png",
+      "dest": "/public/github-icon.png"
+    }
+  ]
+}
